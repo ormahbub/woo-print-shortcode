@@ -1,0 +1,6 @@
+body.single-product .wps-display {
+  display: none;
+}
+body.single-product .summary .wps-display {
+  display: block;
+}

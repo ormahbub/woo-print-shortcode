@@ -1,0 +1,47 @@
+.wps-rule {
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.wps-rule:hover {
+  border-color: #999;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.wps-rule h3 {
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 10px;
+}
+
+.wps-remove-rule {
+  float: right;
+  margin-top: -5px;
+}
+
+.wps-remove-rule:hover {
+  color: #a00 !important;
+}
+
+#wps-add-rule .dashicons {
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.wps-display {
+  margin: 15px 0;
+  padding: 10px;
+  background: #f9f9f9;
+  border-left: 4px solid #0073aa;
+}
+
+/* For after price positioning specifically */
+.wps-after-price {
+  display: block !important;
+  margin-top: 8px !important;
+}
+
+.wps-rule select,
+.wps-rule input[type="text"] {
+  max-width: 100%;
+}
+
