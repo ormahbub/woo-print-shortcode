@@ -3,7 +3,8 @@
  * Plugin Name: Woo Print Shortcode
  * Description: Create custom HTML shortcodes and display them on WooCommerce product pages with precise positioning.
  * Version: 3.1
- * Author: Gemini AI
+ * Author: Mahbub
+ * Author URI: http://mahbub.kesug.com/
  * Text Domain: woo-print-shortcode
  */
 
